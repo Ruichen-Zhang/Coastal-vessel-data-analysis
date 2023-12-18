@@ -1,0 +1,17 @@
+#spring:
+#  datasource:
+#    url: jdbc:mysql://127.0.0.1:3306/bfdata?serverTimezone=GMT%2b8&characterEncoding=utf-8
+#    username: root
+#    password: rootroot
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+
+spring:
+  datasource:
+    url: jdbc:mysql://56.141.180.9:3306/bfdata?serverTimezone=GMT%2b8&characterEncoding=utf-8
+    username: root
+    password: hazd7518
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+server:
+  port: 8900
+
